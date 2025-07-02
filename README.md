@@ -1,5 +1,5 @@
 <p align="center">
-‹sup>You'll find moon at night strangely empty because when you call my name through them there'll be no answer</sup>
+<sup>You'll find moon at night strangely empty because when you call my name through them there'll be no answer</sup>
 </p>
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/wSCUh4C.jpeg">
