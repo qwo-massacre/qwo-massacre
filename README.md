@@ -25,5 +25,5 @@
  <img alt=" " src="https://i.imgur.com/yuN1ytd.jpeg">
 </picture>
 <p align="center">
-‹sup>How you feel is a mystery spin the weel it's all good an endless dance round and round again and every chance a drop of rain❧♫</sup>
+<sup>How you feel is a mystery spin the weel it's all good an endless dance round and round again and every chance a drop of rain❧♫</sup>
 </p>
