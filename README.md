@@ -13,7 +13,7 @@
 
 ---
 
-<p align="center">⟢current fandoms: yttdෆ, mp100, gi, pmmm, saihate station, bsd...? ꒱</p>
+<p align="center">⟢current fandoms: yttdෆ, crk, mp100, gi, pmmm, saihate station, bsd...? ꒱</p>
 <p align="center">⟢kins: errrr I'll fill it later ig ꒱</p>
 
 ---
