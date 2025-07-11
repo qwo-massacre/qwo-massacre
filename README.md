@@ -20,9 +20,9 @@
 
 <p align="center">⟢ׂׂׂׂૢ་༘࿐I LOVE MAYOI AYASE!!! ᥫ᭡.
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/yuN1ytd.jpeg">
- <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/yuN1ytd.jpeg">
- <img alt=" " src="https://i.imgur.com/yuN1ytd.jpeg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/RVTXT92L/IMG-7105.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/RVTXT92L/IMG-7105.jpg">
+ <img alt=" " src="https://i.postimg.cc/RVTXT92L/IMG-7105.jpg">
 </picture>
 <p align="center">
 <sup>How you feel is a mystery spin the weel it's all good an endless dance round and round again and every chance a drop of rain❧♫</sup>
