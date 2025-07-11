@@ -2,9 +2,9 @@
 <sup>You'll find moon at night strangely empty because when you call my name through them there'll be no answer</sup>
 </p>
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/wSCUh4C.jpeg">
- <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/wSCUh4C.jpeg">
- <img alt=" " src="https://i.imgur.com/wSCUh4C.jpeg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://postimg.cc/Z01c5v4N">
+ <source media="(prefers-color-scheme: light)" srcset="https://postimg.cc/Z01c5v4N">
+ <img alt=" " src="https://postimg.cc/Z01c5v4N">
 </picture>
 </p>
 
