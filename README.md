@@ -25,7 +25,12 @@
  <img alt=" " src="https://i.postimg.cc/RVTXT92L/IMG-7105.jpg">
 </picture>
 <p align="center">
+
+ 
 <sup>How you feel is a mystery spin the weel it's all good an endless dance round and round again and every chance a drop of rain❧♫</sup>
 </p>
 <p align="center">pfp cr: Tansuii999 on X</p>
 
+<div align="center">
+<img src="https://tenor.com/ni7mMINYxcC.gif" width="600" height="300"
+ </div>
