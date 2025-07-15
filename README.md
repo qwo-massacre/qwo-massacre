@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://media.tenor.com/mRnyHAbfnxQAAAAi/rain-divider.gif" width="600" height="200"/>
+ </div>
+
 <p align="center">
 <sup>You'll find moon at night strangely empty because when you call my name through them there'll be no answer</sup>
 </p>
