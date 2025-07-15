@@ -29,7 +29,6 @@
 <p align="center">
 <sup>How you feel is a mystery spin the weel it's all good an endless dance round and round again and every chance a drop of rain❧♫</sup>
 </p>
----
 <div align="right">
 <img src="https://media.tenor.com/UnfqTFrEBq8AAAAi/soushin-midori.gif" width="200" height="500"/>
  </div>
