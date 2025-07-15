@@ -32,5 +32,5 @@
 <p align="center">pfp cr: Tansuii999 on X</p>
 
 <div align="center">
-<img src="https://tenor.com/ru/view/blood-drip-blood-divider-carrd-divider-blood-divider-gif-25286975" 
+<img src="https://media.tenor.com/hf6Y0QFVrsEAAAAi/blood-drip-blood.gif" 
  </div>
