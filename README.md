@@ -31,4 +31,6 @@
 </p>
 <p align="center">pfp cr: Tansuii999 on X</p>
 
-<div class="tenor-gif-embed" data-postid="25286975" data-share-method="host" data-aspect-ratio="22.855" data-width="100%"><a href="https://tenor.com/view/blood-drip-blood-divider-carrd-divider-blood-divider-gif-25286975">Blood Drip Blood Sticker</a>from <a href="https://tenor.com/search/blood+drip-stickers">Blood Drip Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div align="center">
+<img src="https://tenor.com/ru/view/blood-drip-blood-divider-carrd-divider-blood-divider-gif-25286975" 
+ </div>
