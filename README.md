@@ -3,7 +3,7 @@
  </div>
 
 
-<p align="center">⟢ׂׂׂׂWATCH YOUR BACK, TAKE A TURN TO THE LEFT AND THE RIGHT◜◜
+<p align="center">⟢ׂׂׂׂWATCH YOUR BACK◜◜
 <div align="center">
 <img src="https://media1.tenor.com/m/KFZBw-pvyLUAAAAC/divider.gif" width="600" height="200"/>
  </div>
