@@ -9,7 +9,7 @@
  </div>
 
 ---
-<p align="center">⟡23.08 (17y.o) ₊˚✄draw sometimes!◜◜</p>
+<p align="center">⟡23.08 ₊˚✄draw sometimes!◜◜</p>
 
 <div align="center">
 <img src="https://media.tenor.com/rUN-1V8PeMYAAAAi/divider.gif" width="700" height="300"/>
