@@ -33,7 +33,6 @@
 <img src="https://media.tenor.com/UnfqTFrEBq8AAAAi/soushin-midori.gif" width="200" height="500"/>
  </div>
 
-<p align="center">pfp cr: Tansuii999 on X</p>
 <div align="center">
 <img src="https://media.tenor.com/hf6Y0QFVrsEAAAAi/blood-drip-blood.gif" 
  </div>
