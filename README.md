@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/3aa8ecca-32c0-4f6d-a87f-a3b1c83d2e3c"/>
+<img src="https://media.tenor.com/hf6Y0QFVrsEAAAAi/blood-drip-blood.gif"/>
  </div>
 
 <p align="center">⟢ׂׂׂׂWATCH YOUR BACK◜◜
