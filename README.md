@@ -1,6 +1,8 @@
 <div align="center">
-<img src="https://tenor.com/ru/view/fairy-divider-gif-12048930687739132226" width="600" height="200"/>
-![](https://komarev.com/ghpvc/?username=qwo-massacre&color=yellowgreen)
+<img src="https://tenor.com/ru/view/fairy-divider-gif-12048930687739132226"/>
+
+ ![](https://komarev.com/ghpvc/?username=qwo-massacre&color=yellowgreen)
+
 </div>
 
 <p align="center">⟢ׂׂׂׂWATCH YOUR BACK◜◜
