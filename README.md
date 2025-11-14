@@ -43,5 +43,5 @@
  <div/>
 <p align="center">﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</p>
   <div align="center">
-<img src="https://media.tenor.com/eUX5ONv12aQAAAAi/divider.gif"/>
+<img src="https://media.tenor.com/4_bqvtIiEIcAAAAi/fire-divider.gif"/>
 </div>
