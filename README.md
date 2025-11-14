@@ -1,5 +1,5 @@
 <div align="center">
-src="h<div class="tenor-gif-embed" data-postid="12048930687739132226" data-share-method="host" data-aspect-ratio="2.26364" data-width="100%"><a href="https://tenor.com/view/fairy-divider-gif-12048930687739132226">Fairy Divider Sticker</a>from <a href="https://tenor.com/search/fairy-stickers">Fairy Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>"/>
+<img src="https://media.tenor.com/pzZmn13-eUIAAAAj/fairy-divider.gif![image](https://github.com/user-attachments/assets/987c2332-d199-4d9d-bdb9-329267181fea)"/>
 
  ![](https://komarev.com/ghpvc/?username=qwo-massacre&color=yellowgreen)
 
