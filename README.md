@@ -4,8 +4,8 @@
  ![](https://komarev.com/ghpvc/?username=qwo-massacre&color=yellowgreen)
 </div>
 
-<div align="center">
-<img src="https://media.tenor.com/0iZMKhVAceYAAAAj/green-brown.gif![image](https://github.com/user-attachments/assets/b0864906-d39e-4333-9dac-bde81b0d16dd)"/>
+<div align="center">(
+<img src="https://github.com/user-attachments/assets/3aa8ecca-32c0-4f6d-a87f-a3b1c83d2e3c"/>
  </div>
 
 <p align="center">⟢ׂׂׂׂWATCH YOUR BACK◜◜
