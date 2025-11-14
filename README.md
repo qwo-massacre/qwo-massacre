@@ -17,6 +17,6 @@
 <p align="center">⟡23.08 ₊˚✄draw sometimes◜◜</p>
 <div align="center">
 <img src="<div align="center">
-<img src="https://github.com/user-attachments/assets/95c17913-b1ee-4390-89bc-ba1010d7cb1d)" width="700" height="300"/>
+<img src="https://github.com/user-attachments/assets/95c17913-b1ee-4390-89bc-ba1010d7cb1d" width="700" height="300"/>
  </div>" width="700" height="300"/>
  </div>
