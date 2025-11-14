@@ -23,3 +23,5 @@
 
 <p align="center">⟢current fandoms: yttdෆ, crk, mp100, gi, pmmm, saihate station, zeno remake ꒱</p>
 <p align="center">⟢kins: Alhaitham; errrr I'll fill it later ig ꒱</p>
+---
+<p align="center">You'll find moon at night strangely empty because when you call my name through them there'll be no answer
