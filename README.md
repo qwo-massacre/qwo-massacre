@@ -13,3 +13,10 @@
 <div align="center">
 <img src="https://github.com/user-attachments/assets/12309327-79bc-4f38-9f42-20afcf5df2d4"width="400" height="200"/>
  </div>
+---
+<p align="center">⟡23.08 ₊˚✄draw sometimes◜◜</p>
+<div align="center">
+<img src="<div align="center">
+<img src="https://media.tenor.com/rUN-1V8PeMYAAAAi/divider.gif" width="700" height="300"/>
+ </div>" width="700" height="300"/>
+ </div>
