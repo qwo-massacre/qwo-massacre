@@ -27,7 +27,7 @@
 ---
 
 <div align="center">
-<sup>You'll find moon at night strangely empty because when you call my name through them there'll be no answer<sup>
+<sup>Give me wisdom to live up to, tell me what I ought to know, reignite the fire inside me, be with me when I must go<sup>
 </div>
  <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/GhSQgnXJ/IMG-7397.jpg">
