@@ -10,9 +10,11 @@
 
 <p align="center">⟢ׂׂׂׂWATCH YOUR BACK◜◜
 
-<div align="center">
-<img src="https://github.com/user-attachments/assets/e9a7739c-6fd9-4f2e-99c7-53eedee8aa26"width="400" height="200"/>
-</div>
+ <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/N0T8JyVc/IMG-7400.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/N0T8JyVc/IMG-7400.jpg">
+ <img alt=" " src="https://i.postimg.cc/N0T8JyVc/IMG-7400.jpg">
+</picture>
 
 ---
 
@@ -31,6 +33,6 @@
 </div>
  <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/GhSQgnXJ/IMG-7397.jpg">
- <source media="(prefers-color-scheme: light)" srcset="ttps://i.postimg.cc/GhSQgnXJ/IMG-7397.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/GhSQgnXJ/IMG-7397.jpg">
  <img alt=" " src="https://i.postimg.cc/GhSQgnXJ/IMG-7397.jpg">
 </picture>
