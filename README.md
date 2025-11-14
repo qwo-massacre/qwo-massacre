@@ -26,7 +26,7 @@
 
 ---
 
-<p align="center">You'll find moon at night strangely empty because when you call my name through them there'll be no answer
+<sup>You'll find moon at night strangely empty because when you call my name through them there'll be no answer<sup>
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/GhSQgnXJ/IMG-7397.jpg">
  <source media="(prefers-color-scheme: light)" srcset="ttps://i.postimg.cc/GhSQgnXJ/IMG-7397.jpg">
