@@ -57,4 +57,4 @@
 
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/6c38fd27-1c50-4180-9058-46240bfe7098"size="1000"/>
+<img src="https://github.com/user-attachments/assets/6c38fd27-1c50-4180-9058-46240bfe7098"/>
