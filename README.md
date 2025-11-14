@@ -12,11 +12,13 @@
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/12309327-79bc-4f38-9f42-20afcf5df2d4"width="400" height="200"/>
- </div>
+</div>
+
 ---
+
 <p align="center">⟡23.08 ₊˚✄draw sometimes◜◜</p>
 <div align="center">
 <img src="<div align="center">
-<img src="https://github.com/user-attachments/assets/95c17913-b1ee-4390-89bc-ba1010d7cb1d" width="700" height="300"/>
+<img src="https://github.com/user-attachments/assets/95c17913-b1ee-4390-89bc-ba1010d7cb1d" />
  </div>" width="700" height="300"/>
  </div>
