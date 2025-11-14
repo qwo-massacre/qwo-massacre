@@ -21,5 +21,5 @@
 <img src="https://github.com/user-attachments/assets/95c17913-b1ee-4390-89bc-ba1010d7cb1d" />
  </div>
 
- align="center">⟢current fandoms: yttdෆ, crk, mp100, gi, pmmm, saihate station, zeno remake ꒱</p>
+<p align="center">⟢current fandoms: yttdෆ, crk, mp100, gi, pmmm, saihate station, zeno remake ꒱</p>
 <p align="center">⟢kins: Alhaitham; errrr I'll fill it later ig ꒱</p>
