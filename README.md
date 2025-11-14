@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.tenor.com/pzZmn13-eUIAAAAj/fairy-divider.gif![image](https://github.com/user-attachments/assets/987c2332-d199-4d9d-bdb9-329267181fea)"/>
+<img src="https://media.tenor.com/Z92kFT9J7JIAAAAi/divider.gif"/>
 
  ![](https://komarev.com/ghpvc/?username=qwo-massacre&color=yellowgreen)
 </div>
