@@ -4,7 +4,7 @@
  ![](https://komarev.com/ghpvc/?username=qwo-massacre&color=yellowgreen)
 </div>
 
-<div align="center">(
+<div align="center">
 <img src="https://github.com/user-attachments/assets/3aa8ecca-32c0-4f6d-a87f-a3b1c83d2e3c"/>
  </div>
 
