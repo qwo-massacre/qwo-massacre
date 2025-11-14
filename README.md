@@ -32,7 +32,7 @@
 <sup>Give me wisdom to live up to, tell me what I ought to know, reignite the fire inside me, be with me when I must go<sup>
 </div>
  <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/GhSQgnXJ/IMG-7397.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/GhSQgnXJ/IMG-7397.jpg">
- <img alt=" " src="https://i.postimg.cc/GhSQgnXJ/IMG-7397.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/N0T8JyVc/IMG-7400.jpg"width="600" height="300">
+ <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/GhSQgnXJ/IMG-7397.jpg"width="600" height="300">
+ <img alt=" " src="https://i.postimg.cc/GhSQgnXJ/IMG-7397.jpg"width="600" height="300">
 </picture>
