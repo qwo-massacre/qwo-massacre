@@ -10,5 +10,5 @@
 
 <p align="center">⟢ׂׂׂׂWATCH YOUR BACK◜◜
 <div align="center">
-<img src="https://media1.tenor.com/m/HspKFmfo6UYAAAAd/more-of-my-hacking.gif" width="600" height="200"/>
+<img src="https://media1.tenor.com/m/HspKFmfo6UYAAAAd/more-of-my-hacking.gif" />
  </div>
