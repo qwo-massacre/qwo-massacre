@@ -43,7 +43,11 @@
 <img src="https://github.com/user-attachments/assets/1de1e6de-8fc1-4a19-af98-4a62330f92c1"size="300" align="left">𐔌 icl ts pmo sm n sb rn ngl, r u srsly srs n fr rn vro? Smh lol atp is go… b fr vro, idek nm, brb gng gtg atm lmao, bt ts pmo 2 js Imk lol onb fr, ac nwm b wt istgts vro keys🤲 ts pmoicl ts pmo sm n sb rn ngl, r u srsly srs n fr rn vro? Smh lol atp is go… ꒱     
 </div>
 
----
+
+
+
+
+
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/6c38fd27-1c50-4180-9058-46240bfe7098"size="500"/>
