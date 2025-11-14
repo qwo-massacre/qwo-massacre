@@ -11,5 +11,5 @@
 <p align="center">⟢ׂׂׂׂWATCH YOUR BACK◜◜
 
 <div align="center">
-<img src="https://media1.tenor.com/m/J-w5FUWA17sAAAAC/hacker.gif![image](https://github.com/user-attachments/assets/73dcb5d5-d6c4-423b-920a-0bf60462154f)"/>
+<img src="https://media1.tenor.com/m/5Xw3hRmmtsoAAAAd/cover-page-hacker-man.gif![image](https://github.com/user-attachments/assets/12309327-79bc-4f38-9f42-20afcf5df2d4)"/>
  </div>
