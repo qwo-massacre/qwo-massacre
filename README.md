@@ -44,5 +44,5 @@
  <div/>
 <p align="center">﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</p>
   <div align="center">
-<img src="https://github.com/user-attachments/assets/6c38fd27-1c50-4180-9058-46240bfe7098"/>
+<img src="https://media.tenor.com/eUX5ONv12aQAAAAi/divider.gif"/>
 </div>
