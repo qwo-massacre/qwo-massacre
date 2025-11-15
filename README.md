@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://media.tenor.com/Z92kFT9J7JIAAAAi/divider.gif"/>
 
- ![](https://komarev.com/ghpvc/?username=qwo-massacre&color=yellowgreen)
+ ![](https://komarev.com/ghpvc/?username=qwo-massacre&color=yellowgreen&abbreviated=true)
 </div>
 
 <div align="center">
