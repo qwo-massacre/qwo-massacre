@@ -36,6 +36,8 @@
  <img src="https://github.com/user-attachments/assets/794daf61-9840-4950-b41a-a9cfb7f99f22"/>
 
 <p align="center">⟢kins: Alhaitham; errrr I'll fill it later ig ꒱ <img src="https://github.com/user-attachments/assets/9660048b-8709-4634-acd9-4560b6efc1d7"/>
+<img src="https://github.com/user-attachments/assets/23d51d66-182c-4548-90ea-156b0105de38"/>
+
 
 
 <div align="center">
