@@ -2,7 +2,6 @@
 <img src="https://media.tenor.com/Z92kFT9J7JIAAAAi/divider.gif"/>
 
  ![](https://komarev.com/ghpvc/?username=qwo-massacre&color=yellowgreen&abbreviated=true)
-</div>
 
  <div align="center">
 <img src="https://github.com/user-attachments/assets/4d7a7a5f-9566-42a1-ac87-1f52ef917578"/>
