@@ -63,4 +63,4 @@
 </div>
 
 <div align="center">
- <img src="https://github.com/user-attachments/assets/90df51d0-3748-47e8-b380-df40426c50cd" <p align="left">One day, your knees will buckle under the weight of your endless sins. I WILL NOT be there to save you</p>
+ <img src="https://pin.it/VbbCByQyU" <p align="left">One day, your knees will buckle under the weight of your endless sins. I WILL NOT be there to save you</p>
