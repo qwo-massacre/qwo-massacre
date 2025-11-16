@@ -63,4 +63,4 @@
 </div>
 
 <div align="center">
- <img src="https://i.postimg.cc/5NVTzCRz/IMG-7406.jpg" <p align="left">One day, your knees will buckle under the weight of your endless sins. I WILL NOT be there to save you</p>
+ <img src="https://i.postimg.cc/5NVTzCRz/IMG-7406.jpg"width="200" height="100" <p align="left">One day, your knees will buckle under the weight of your endless sins. I WILL NOT be there to save you</p>
