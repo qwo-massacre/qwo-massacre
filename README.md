@@ -20,7 +20,10 @@
  <img alt=" " src="https://i.postimg.cc/N0T8JyVc/IMG-7400.jpg">
 </picture>
 
----
+<div align="center">
+<img src="https://github.com/user-attachments/assets/1471d22e-1c1b-44a3-9565-d3d4e3ad8860"/>
+</div>
+
 
 <p align="center">⟡23.08 ₊˚✄draw sometimes◜◜</p>
 <div align="center">
@@ -32,7 +35,9 @@
 <p align="center">⟢kins: Alhaitham; errrr I'll fill it later ig ꒱ <img src="https://github.com/user-attachments/assets/9660048b-8709-4634-acd9-4560b6efc1d7"/>
 
 
----
+<div align="center">
+<img src="https://github.com/user-attachments/assets/bf553160-cb3e-4e22-bce8-47fb9731eae9"/>
+</div>
 
 <div align="center">
 <sup>Give me wisdom to live up to, tell me what I ought to know, reignite the fire inside me, be with me when I must go<sup>
