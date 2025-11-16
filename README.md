@@ -49,6 +49,5 @@
  <div/>
 <p align="center">﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</p>
   <div align="center">
-<img src="https://github.com/user-attachments/assets/057955d1-f0ff-4135-b987-b1e9d5ebbc11)
-"/>
+<img src="https://github.com/user-attachments/assets/057955d1-f0ff-4135-b987-b1e9d5ebbc11"/>
 </div>
