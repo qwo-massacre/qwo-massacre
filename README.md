@@ -29,7 +29,8 @@
 
 <p align="left">⟢current fandoms: yttdෆ, crk, mp100, gi, pmmm, saihate station, zeno remake ꒱ <img src="https://github.com/user-attachments/assets/ec80a90a-5589-4422-9cc1-788bc2f20eb4"/>
 
-<p align="left">⟢kins: Alhaitham; errrr I'll fill it later ig ꒱</p>
+<p align="left">⟢kins: Alhaitham; errrr I'll fill it later ig ꒱ <img src="https://github.com/user-attachments/assets/9660048b-8709-4634-acd9-4560b6efc1d7"/>
+
 
 ---
 
