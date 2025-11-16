@@ -62,4 +62,5 @@
 <img src="https://github.com/user-attachments/assets/057955d1-f0ff-4135-b987-b1e9d5ebbc11"/>
 </div>
 
-<div align="right"<img src="https://github.com/user-attachments/assets/90df51d0-3748-47e8-b380-df40426c50cd" <p align="left">One day, your knees will buckle under the weight of your endless sins. I WILL NOT be there to save you</p>
+<div align="center">
+ <img src="https://github.com/user-attachments/assets/90df51d0-3748-47e8-b380-df40426c50cd" <p align="left">One day, your knees will buckle under the weight of your endless sins. I WILL NOT be there to save you</p>
