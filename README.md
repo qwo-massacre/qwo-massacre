@@ -69,7 +69,7 @@
 ---
 
 <div align="left">
- <img src="https://i.postimg.cc/QNW2LGts/IMG-7413.jpg"width="200"height="300" 
+ <img src="https://i.postimg.cc/QNW2LGts/IMG-7413.jpg"width="200"height="500" 
 <div align="center">
  <img src="https://mountaintown.neocities.org/banners/fluffy.jpg"size="80"/>
  <div/>
