@@ -69,7 +69,7 @@
 
 <div align="center">
  <img src="https://i.postimg.cc/5NVTzCRz/IMG-7406.jpg"width="200" height="100" <p align="left">One day, your knees will buckle under the weight of your endless sins. I WILL NOT be there to save you</p>
-
+<br>
  <div align="center">
 <img src="https://github.com/user-attachments/assets/057955d1-f0ff-4135-b987-b1e9d5ebbc11"/>
 </div>
