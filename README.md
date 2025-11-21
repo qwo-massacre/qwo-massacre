@@ -76,6 +76,7 @@
 </td>
 <td valign="top" width="400">
 <img src="https://mountaintown.neocities.org/stamps/kids/kenny%20(4).gif">
+ <img src="https://mountaintown.neocities.org/banners/fluffy.jpg">
 </td>
 </tr>
 </table>
