@@ -75,6 +75,5 @@
 
   <div>
     <img src="https://mountaintown.neocities.org/stamps/kids/kenny%20(4).gif" width="250"><br>
-    <p>\rho(E)=\frac{1}{2\pi^{2}}\left(\frac{2m_{r}}{\hbar^{2}}\right)^{\frac{3}{2}}(E)^{\frac{1}{2}}</p>
   </div>
 </div>
