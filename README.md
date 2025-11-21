@@ -74,7 +74,7 @@
 <td valign="top" width="300">
 <img src="https://i.postimg.cc/QNW2LGts/IMG-7413.jpg" width="400" height="500">
 </td>
-<td valign="top" width="600">
+<td valign="top" width="500">
 <img src="https://mountaintown.neocities.org/stamps/kids/kenny%20(4).gif">
  <img src="https://mountaintown.neocities.org/banners/fluffy.jpg">
 </td>
