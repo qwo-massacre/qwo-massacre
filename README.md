@@ -68,11 +68,13 @@
 
 ---
 
-<div align="left">
- <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/QNW2LGts/IMG-7413.jpg"width="200" height="400">
- <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/QNW2LGts/IMG-7413.jpg"width="200" height="400">
- <img alt=" " src="https://i.postimg.cc/L6YVY0Vc/IMG-7399.jpg"width="600" height="300">
-</picture>
- <img src="https://mountaintown.neocities.org/stamps/kids/cartman%20(3).png"/>
- <div/>
+<div style="display: flex; align-items: flex-start;">
+  <div style="margin-right: 20;">
+    <img src="https://i.postimg.cc/QNW2LGts/IMG-7413.jpg"width="200" height="400">
+  </div>
+
+  <div>
+    <img src="https://mountaintown.neocities.org/stamps/kids/kenny%20(4).gif" width="250"><br>
+    <p>\rho(E)=\frac{1}{2\pi^{2}}\left(\frac{2m_{r}}{\hbar^{2}}\right)^{\frac{3}{2}}(E)^{\frac{1}{2}}</p>
+  </div>
+</div>
