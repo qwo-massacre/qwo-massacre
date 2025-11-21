@@ -1,3 +1,4 @@
+
 <div align="center">
 <img src="https://media.tenor.com/Z92kFT9J7JIAAAAi/divider.gif"/>
 
@@ -68,4 +69,13 @@
 
 ---
 
-|<img src="https://i.postimg.cc/QNW2LGts/IMG-7413.jpg" width="200" height="400">|<div><img src="https://mountaintown.neocities.org/stamps/kids/kenny%20(4).gif"><br></div>|
+<table>
+<tr>
+<td valign="top">
+<img src="https://i.postimg.cc/QNW2LGts/IMG-7413.jpg" width="200" height="400">
+</td>
+<td valign="top">
+<img src="https://mountaintown.neocities.org/stamps/kids/kenny%20(4).gif">
+</td>
+</tr>
+</table>
