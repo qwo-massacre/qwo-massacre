@@ -55,10 +55,16 @@
 </div>
 
 
-<div align="right"> 
- <img src="https://github.com/user-attachments/assets/1de1e6de-8fc1-4a19-af98-4a62330f92c1"size="300" <p align="right">𐔌 icl ts pmo sm n sb rn ngl, r u srsly srs n fr rn vro? Smh lol atp is go… b fr vro, idek nm, brb gng gtg atm lmao, bt ts pmo 2 js Imk lol onb fr, ac nwm b wt istgts vro keys🤲 ts pmoicl ts pmo sm n sb rn ngl, r u srsly srs n fr rn vro? Smh lol atp is go… ꒱ 
- <div/>
-<p align="center">﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</p>
+<table>
+<tr>
+<td valign="top" width="300">
+<p>𐔌 icl ts pmo sm n sb rn ngl, r u srsly srs n fr rn vro? Smh lol atp is go… b fr vro, idek nm, brb gng gtg atm lmao, bt ts pmo 2 js Imk lol onb fr, ac nwm b wt istgts vro keys🤲 ts pmoicl ts pmo sm n sb rn ngl, r u srsly srs n fr rn vro? Smh lol atp is go… ꒱ </p>
+</td>
+<td valign="top" width="550">
+<img src="https://github.com/user-attachments/assets/1de1e6de-8fc1-4a19-af98-4a62330f92c1"size="300">
+</td>
+</tr>
+</table>
 
 <div align="center">
  <img src="https://i.postimg.cc/5NVTzCRz/IMG-7406.jpg"width="200" height="100" <p align="left">One day, your knees will buckle under the weight of your endless sins. I WILL NOT be there to save you</p>
