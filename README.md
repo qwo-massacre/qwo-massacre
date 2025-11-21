@@ -74,6 +74,7 @@
 
 <div align="center">
  <img src="https://i.postimg.cc/5NVTzCRz/IMG-7406.jpg"width="300" height="200" <p align="left">One day, your knees will buckle under the weight of your endless sins. I WILL NOT be there to save you</p>
+ <img src="https://mountaintown.neocities.org/gifs/kenny/SP60.gif">
  <br>
  <br>
  <br>
