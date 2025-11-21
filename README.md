@@ -71,10 +71,10 @@
 
 <table>
 <tr>
-<td valign="top">
+<td valign="top" width="300">
 <img src="https://i.postimg.cc/QNW2LGts/IMG-7413.jpg" width="200" height="400">
 </td>
-<td valign="top">
+<td valign="top" width="400">
 <img src="https://mountaintown.neocities.org/stamps/kids/kenny%20(4).gif">
 </td>
 </tr>
