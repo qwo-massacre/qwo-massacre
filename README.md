@@ -93,6 +93,7 @@
 <img src="https://mountaintown.neocities.org/stamps/kids/kenny%20(4).gif">
  <img src="https://mountaintown.neocities.org/banners/fluffy.jpg">
 <br>
+ <br>
  <p>Been there, done that, messed around, I'm having fun, don't put me down, I'll never let you sweep me off my feet, I won't let you in again, the messages I've tried to send, my information's just not going in</p>
 <br>
  <img src="https://64.media.tumblr.com/98f23d97540c7be9ea93a91a5eab9c84/e289a2620bfd53d4-2e/s250x400/b92beb4a8218ae438c85c540a4edb525da4fe426.gifv">
