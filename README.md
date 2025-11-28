@@ -15,6 +15,7 @@
 
 <p align="center">⟢ׂׂׂׂWATCH YOUR BACK◜◜
 
+<div align="center">
 <table>
 <tr>
 <td valign="top" width="500">
@@ -25,6 +26,7 @@
 </td>
 </tr>
 </table>
+</div>
 ---
 
 <div align="center">
