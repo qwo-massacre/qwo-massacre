@@ -15,12 +15,16 @@
 
 <p align="center">⟢ׂׂׂׂWATCH YOUR BACK◜◜
 
- <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/N0T8JyVc/IMG-7400.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/N0T8JyVc/IMG-7400.jpg">
- <img alt=" " src="https://i.postimg.cc/N0T8JyVc/IMG-7400.jpg">
-</picture>
-
+<table>
+<tr>
+<td valign="top" width="500">
+<img src="https://i.postimg.cc/N0T8JyVc/IMG-7400.jpg">
+</td>
+<td valign="top" width="200">
+<img src="https://i.postimg.cc/nrBp7ZNY/IMG-7434.png">
+</td>
+</tr>
+</table>
 ---
 
 <div align="center">
