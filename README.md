@@ -21,7 +21,8 @@
 <td valign="top" width="500">
 <img src="https://i.postimg.cc/N0T8JyVc/IMG-7400.jpg">
 </td>
-<td valign="top" width="200">
+<td valign="top" width="300">
+<br>
 <img src="https://i.postimg.cc/nrBp7ZNY/IMG-7434.png">
 </td>
 </tr>
