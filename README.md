@@ -97,6 +97,7 @@
 <table>
 <tr>
 <td valign="top" width="300">
+<br>
 <img src="https://i.postimg.cc/QNW2LGts/IMG-7413.jpg" width="400" height="500">
 </td>
 <td valign="top" width="500">
@@ -105,7 +106,7 @@
 <img src="https://64.media.tumblr.com/37fb88a489b029ebadcce3baa19da34c/0849fa6899c3a334-89/s250x250_c1/f8dff7a8055e1cd155f5a4e468bd544074698d6f.pnj">
 <img src="https://64.media.tumblr.com/3e99fec09b177fd7ae99095ef3e8ce58/a21613f2eb57a647-49/s75x75_c1/65ddd00ac471c961e865d2af5da7b96cfbf4d8ec.gif">
 <br>
- <br>
+<br>
  <p>Been there, done that, messed around, I'm having fun, don't put me down, I'll never let you sweep me off my feet, I won't let you in again, the messages I've tried to send, my information's just not going in</p>
 <br>
  <img src="https://64.media.tumblr.com/98f23d97540c7be9ea93a91a5eab9c84/e289a2620bfd53d4-2e/s250x400/b92beb4a8218ae438c85c540a4edb525da4fe426.gifv">
