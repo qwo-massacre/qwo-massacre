@@ -55,10 +55,7 @@
 
 <div align="center">
 <sup>Give me wisdom to live up to, tell me what I ought to know, reignite the fire inside me, be with me when I must go<sup>
- <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://pin.it/4smVsqNMM"width="600" height="300">
- <img alt=" " src="https://pin.it/4smVsqNMM"width="600" height="300">
-</picture>
+<img alt=" " src="https://i.postimg.cc/SN606Pvt/IMG-7472.jpg" width="600" height="300">
 </div>
 
  
