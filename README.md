@@ -101,7 +101,7 @@
 </td>
 <td valign="top" width="550">
 <img src="https://mountaintown.neocities.org/stamps/kids/kenny%20(4).gif">
- <img src="https://mountaintown.neocities.org/banners/fluffy.jpg">
+ <img src="https://64.media.tumblr.com/9a165446a55eb7db05aacdd5308de322/0849fa6899c3a334-75/s250x250_c1/c2e29a859117caa7cd12ad10b527aff18c4f1e2b.pnj">
 <br>
  <br>
  <p>Been there, done that, messed around, I'm having fun, don't put me down, I'll never let you sweep me off my feet, I won't let you in again, the messages I've tried to send, my information's just not going in</p>
