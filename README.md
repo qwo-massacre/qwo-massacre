@@ -57,9 +57,9 @@
 <sup>Give me wisdom to live up to, tell me what I ought to know, reignite the fire inside me, be with me when I must go<sup>
 <br>
  <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/SN606Pvt/IMG-7472.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/SN606Pvt/IMG-7472.jpg">
- <img alt=" " src="https://i.postimg.cc/SN606Pvt/IMG-7472.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://img.traveltriangle.com/blog/wp-content/uploads/2024/06/Places-To-Stay-In-At-Shoja.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://img.traveltriangle.com/blog/wp-content/uploads/2024/06/Places-To-Stay-In-At-Shoja.jpg">
+ <img alt=" " src="https://img.traveltriangle.com/blog/wp-content/uploads/2024/06/Places-To-Stay-In-At-Shoja.jpg">
 </picture>
 </div>
 
