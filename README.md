@@ -55,9 +55,7 @@
 
 <div align="center">
 <sup>Give me wisdom to live up to, tell me what I ought to know, reignite the fire inside me, be with me when I must go<sup>
-<picture>
 <img src="https://i.postimg.cc/SN606Pvt/IMG-7472.jpg"/>
-</picture>
 </div>
 
  
