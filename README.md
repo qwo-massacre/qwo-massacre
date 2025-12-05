@@ -55,10 +55,11 @@
 
 <div align="center">
 <sup>Give me wisdom to live up to, tell me what I ought to know, reignite the fire inside me, be with me when I must go<sup>
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="[![IMG-7472.jpg](https://i.postimg.cc/SN606Pvt/IMG-7472.jpg)](https://postimg.cc/qzvZ0108)">
- <source media="(prefers-color-scheme: light)" srcset="[![IMG-7472.jpg](https://i.postimg.cc/SN606Pvt/IMG-7472.jpg)](https://postimg.cc/qzvZ0108)">
- <img alt=" " src="[![IMG-7472.jpg](https://i.postimg.cc/SN606Pvt/IMG-7472.jpg)](https://postimg.cc/qzvZ0108)">
+<br>
+ <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/SN606Pvt/IMG-7472.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/SN606Pvt/IMG-7472.jpg">
+ <img alt=" " src="https://i.postimg.cc/SN606Pvt/IMG-7472.jpg">
 </picture>
 </div>
 
