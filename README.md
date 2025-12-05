@@ -41,7 +41,7 @@
 <img src="https://github.com/user-attachments/assets/95c17913-b1ee-4390-89bc-ba1010d7cb1d" />
  </div>
 
-<p align="center">⟢current fandoms: yttdෆ, crk, mp100, gi, pmmm, saihate station, zeno remake ꒱ <img src="https://github.com/user-attachments/assets/ec80a90a-5589-4422-9cc1-788bc2f20eb4"/> 
+<p align="center">⟢current fandoms: yttdෆ, crk, mp100, gi, pmmm, saihate station, zeno remake ꒱ <img src="https://github.com/user-attachments/assets/ec80a90a-5589-4422-9cc1-788bc2f20eb4"/>
  <img src="https://github.com/user-attachments/assets/794daf61-9840-4950-b41a-a9cfb7f99f22"/>
 
 <p align="center">⟢kins: Alhaitham; errrr I'll fill it later ig ꒱ <img src="https://github.com/user-attachments/assets/9660048b-8709-4634-acd9-4560b6efc1d7"/>
@@ -55,7 +55,9 @@
 
 <div align="center">
 <sup>Give me wisdom to live up to, tell me what I ought to know, reignite the fire inside me, be with me when I must go<sup>
-<img src="https://i.postimg.cc/SN606Pvt/IMG-7472.jpg" width="600" height="300"/>
+<picture>
+ <img src="https://i.postimg.cc/SN606Pvt/IMG-7472.jpg" width="600" height="300"/>
+</picture>
 </div>
 
  
