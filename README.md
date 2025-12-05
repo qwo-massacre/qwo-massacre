@@ -99,7 +99,7 @@
 <td valign="top" width="300">
 <img src="https://i.postimg.cc/QNW2LGts/IMG-7413.jpg" width="400" height="500">
 </td>
-<td valign="top" width="550">
+<td valign="top" width="500">
 <img src="https://mountaintown.neocities.org/stamps/kids/kenny%20(4).gif">
 <img src="https://64.media.tumblr.com/9a165446a55eb7db05aacdd5308de322/0849fa6899c3a334-75/s250x250_c1/c2e29a859117caa7cd12ad10b527aff18c4f1e2b.pnj">
 <img src="https://64.media.tumblr.com/37fb88a489b029ebadcce3baa19da34c/0849fa6899c3a334-89/s250x250_c1/f8dff7a8055e1cd155f5a4e468bd544074698d6f.pnj">
