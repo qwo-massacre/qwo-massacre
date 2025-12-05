@@ -101,7 +101,9 @@
 </td>
 <td valign="top" width="550">
 <img src="https://mountaintown.neocities.org/stamps/kids/kenny%20(4).gif">
- <img src="https://64.media.tumblr.com/9a165446a55eb7db05aacdd5308de322/0849fa6899c3a334-75/s250x250_c1/c2e29a859117caa7cd12ad10b527aff18c4f1e2b.pnj">
+<img src="https://64.media.tumblr.com/9a165446a55eb7db05aacdd5308de322/0849fa6899c3a334-75/s250x250_c1/c2e29a859117caa7cd12ad10b527aff18c4f1e2b.pnj">
+<img src="https://64.media.tumblr.com/37fb88a489b029ebadcce3baa19da34c/0849fa6899c3a334-89/s250x250_c1/f8dff7a8055e1cd155f5a4e468bd544074698d6f.pnj">
+<img src="https://64.media.tumblr.com/3e99fec09b177fd7ae99095ef3e8ce58/a21613f2eb57a647-49/s75x75_c1/65ddd00ac471c961e865d2af5da7b96cfbf4d8ec.gif">
 <br>
  <br>
  <p>Been there, done that, messed around, I'm having fun, don't put me down, I'll never let you sweep me off my feet, I won't let you in again, the messages I've tried to send, my information's just not going in</p>
