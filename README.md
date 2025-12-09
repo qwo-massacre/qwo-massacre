@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://media.tenor.com/Z92kFT9J7JIAAAAi/divider.gif"/>
 
- ![](https://komarev.com/ghpvc/?username=qwo-massacre&color=yellowgreen&abbreviated=true)
+ ![](https://komarev.com/ghpvc/?username=qwo-massacre&color=red&abbreviated=true)
 </div>
  
  <div align="center">
@@ -116,8 +116,3 @@
 </td>
 </tr>
 </table>
-
-<div align="center"> 
-
- ![](https://komarev.com/ghpvc/?username=rua-magica&color=grey&abbreviated=true)
-</div>
