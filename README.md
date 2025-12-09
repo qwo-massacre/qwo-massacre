@@ -116,3 +116,8 @@
 </td>
 </tr>
 </table>
+
+<div align="center"> 
+
+ ![](https://komarev.com/ghpvc/?username=rua-magica&color=grey&abbreviated=true)
+</div>
