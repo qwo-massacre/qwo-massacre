@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://media.tenor.com/Z92kFT9J7JIAAAAi/divider.gif"/>
 
- ![](https://komarev.com/ghpvc/?username=qwo-massacre&color=red&abbreviated=true)
+ ![](https://komarev.com/ghpvc/?username=qwo-massacre&color=red)
 </div>
  
  <div align="center">
